@@ -27,15 +27,10 @@ students and teachers. It’s designed to be fast, secure, and visually stunning
 -------------------------------------------------------------------------------
  Even a Maserati needs a pit stop. If the vibe crashes, check here:
 
-  +-----------------------+------------------------------------------+
-  | IF THIS HAPPENS...    | DO THIS...                               |
-  +-----------------------+------------------------------------------+
+  | IF THIS HAPPENS...    | DO THIS...                                |
   | Server error 🐢       | Just run node server.js                  |
-  +-----------------------+------------------------------------------+
   | "6 7" Interference 🦍 | Click "launch noise detector"            |
-  +-----------------------+--------------------------------------------------------+
-  | System Crash 💥       | Run cloudflared tunnel --url http://localhost:8080    |
-  +-----------------------+--------------------------------------------------------+
+  | System Crash 💥       | Run cloudflared tunnel --url http://localhost:8080  |
 
 -------------------------------------------------------------------------------
 🚀 WHY IT WORKS
